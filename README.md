@@ -109,3 +109,10 @@ streamlit-energy-dashboards/
 ├── README.md                   # Project overview and instructions
 ├── LICENSE                    # MIT License
 └── .gitignore                 # Python-specific ignores
+
+### How to Run
+
+1.	Clone this repository:
+```bash
+git clone https://github.com/DCodesIt/streamlit-energy-dashboards.git
+cd streamlit-energy-dashboards
