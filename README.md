@@ -110,9 +110,45 @@ streamlit-energy-dashboards/
 ├── LICENSE                    # MIT License
 └── .gitignore                 # Python-specific ignores
 
-### How to Run
+---
 
-1.	Clone this repository:
+## How to Run
+
+1. Clone this repository:
+
 ```bash
 git clone https://github.com/DCodesIt/streamlit-energy-dashboards.git
 cd streamlit-energy-dashboards
+
+2. Run the Life Cycle Cost dashboard:
+
+```bash
+streamlit run python_files/main_dashboard.py
+
+3. Run the Energy Distribution Sankey dashboard:
+
+```bash
+streamlit run python_files/energy_distribution.py
+
+4. Upload your Excel files in the app interface and interact with the dashboards.
+
+---
+
+## Future Improvements
+
+- Add synthetic sample datasets to allow users to test the dashboards without confidential data.
+- Enhance UI with custom themes and layouts.
+- Integrate caching and performance optimizations for larger datasets.
+- Add automated tests and CI/CD pipeline.
+- Extend dashboards with real-time data integration and alerts.
+
+---
+
+Contact
+
+Divesh Chonkar
+Email: diveshchonkar.ds@gmail.com  
+GitHub: https://github.com/DCodesIt  
+LinkedIn: https://linkedin.com/in/diveshchonkar
+
+Thank you for reviewing my project.
