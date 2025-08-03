@@ -99,6 +99,7 @@ pip install streamlit pandas plotly openpyxl streamlit-plotly-events
 
 ### Folder Structure
 
+```
 streamlit-energy-dashboards/
 │
 ├── python_files/                # Python dashboard scripts
@@ -112,6 +113,7 @@ streamlit-energy-dashboards/
 ├── README.md                   # Project overview and instructions
 ├── LICENSE                    # MIT License
 └── .gitignore                 # Python-specific ignores
+```
 
 ---
 
