@@ -154,7 +154,7 @@ streamlit run python_files/energy_distribution.py
 
 ## Contact
 
-Divesh Chonkar
+Divesh Chonkar  
 Email: diveshchonkar.ds@gmail.com  
 GitHub: https://github.com/DCodesIt  
 LinkedIn: https://linkedin.com/in/diveshchonkar
