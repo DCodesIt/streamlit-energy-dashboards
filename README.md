@@ -124,16 +124,19 @@ streamlit-energy-dashboards/
 ```bash
 git clone https://github.com/DCodesIt/streamlit-energy-dashboards.git
 cd streamlit-energy-dashboards
+```
 
 2. Run the Life Cycle Cost dashboard:
 
 ```bash
 streamlit run python_files/main_dashboard.py
+```
 
 3. Run the Energy Distribution Sankey dashboard:
 
 ```bash
 streamlit run python_files/energy_distribution.py
+```
 
 4. Upload your Excel files in the app interface and interact with the dashboards.
 
