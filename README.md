@@ -94,7 +94,9 @@ Install the required packages with:
 ```bash
 pip install streamlit pandas plotly openpyxl streamlit-plotly-events
 
-## Folder Structure
+---
+
+### Folder Structure
 
 streamlit-energy-dashboards/
 │
