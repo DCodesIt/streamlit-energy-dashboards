@@ -93,6 +93,7 @@ Install the required packages with:
 
 ```bash
 pip install streamlit pandas plotly openpyxl streamlit-plotly-events
+```
 
 ---
 
