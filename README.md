@@ -152,7 +152,7 @@ streamlit run python_files/energy_distribution.py
 
 ---
 
-Contact
+## Contact
 
 Divesh Chonkar
 Email: diveshchonkar.ds@gmail.com  
